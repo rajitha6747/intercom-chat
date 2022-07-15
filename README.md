@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.19.
 
-## Development Development
+## Development Setup
 ### Prerequisites
 *Install [Node.js](https://nodejs.org/en/) which includes [Node Package Manager](https://docs.npmjs.com/getting-started)
 
